@@ -1,0 +1,5 @@
+*.apk
+*.sln
+*.suo
+Temp/
+*.swp
